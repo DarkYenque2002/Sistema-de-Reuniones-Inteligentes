@@ -1,0 +1,2 @@
+# Sistema-de-Reuniones-Inteligentes
+APLICACION REALIZADA EN PYTHON CON STREAMLIT 
